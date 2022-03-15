@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40mm"
+   height="40mm"
+   viewBox="0 0 40 40"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="vr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="80.363666"
+     inkscape:cy="551.6162"
+     inkscape:window-width="1920"
+     inkscape:window-height="1122"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <style
+       id="style9">
+.MsftOfcThm_MainDark1_Fill_v2 {
+ fill:#000000; 
+}
+</style>
+    <style
+       id="style329">
+.MsftOfcThm_MainDark1_Fill_v2 {
+ fill:#000000; 
+}
+</style>
+    <g
+       id="g335"
+       transform="matrix(0.26458333,0,0,0.26458333,7.3539973,9.57055)">
+      <path
+         d="m 50,63.1 c 8.3,0 14.8,-8.1 18.2,-16 3.4334,-0.4955 5.986,-3.431 6,-6.9 V 32 C 74.1842,29.1126 72.397,26.5312 69.7,25.5 65.1492,14.5924 52.6176,9.43917 41.71,13.99 36.507,16.1608 32.3708,20.297 30.2,25.5 27.5423,26.5632 25.7997,29.1375 25.8,32 v 8.2 c 0.014,3.469 2.5666,6.4045 6,6.9 3.4,7.8 9.9,16 18.2,16 z m 0,-2 C 43,61.1 37.2,53.9 34,47.2 H 66 C 62.8,53.9 57,61.1 50,61.1 Z M 67.3,25 H 51 V 14.3 c 6.968,0.3581 13.2002,4.4492 16.3,10.7 z M 32.7,25 C 35.7998,18.7492 42.032,14.6581 49,14.3 V 25 Z M 27.8,40.2 V 32 c 0,-2.7614 2.2386,-5 5,-5 h 34.5 c 2.7614,0 5,2.2386 5,5 v 8.2 c 0,2.7614 -2.2386,5 -5,5 H 32.8 c -2.7614,0 -5,-2.2386 -5,-5 z"
+         class="MsftOfcThm_MainDark1_Fill_v2"
+         id="path331" />
+      <path
+         d="m 88.2,87.3 c 0.175,-0.2669 0.2122,-0.6012 0.1,-0.9 -0.5367,-1.5866 -1.2057,-3.1254 -2,-4.6 -0.9558,-1.8432 -2.0949,-3.5853 -3.4,-5.2 -6.1,-7.4 -16.2,-10.2 -25.7,-7 -4.6467,1.5125 -9.6533,1.5125 -14.3,0 -9.6,-3.1 -19.7,-0.4 -25.7,7 -1.3052,1.6147 -2.4442,3.3568 -3.4,5.2 -0.7883,1.4775 -1.4571,3.0158 -2,4.6 -0.1665,0.5266 0.1255,1.0884 0.6521,1.2549 0.0804,0.0254 0.1637,0.0406 0.2479,0.0451 h 74.6 c 0.3494,0.0339 0.691,-0.1179 0.9,-0.4 z M 14.1,85.7 c 0.4107,-1.0252 0.8781,-2.0267 1.4,-3 0.9039,-1.7027 1.9759,-3.3107 3.2,-4.8 5.5,-6.8 14.8,-9.3 23.6,-6.4 5.068,1.657 10.532,1.657 15.6,0 8.8,-2.9 18,-0.4 23.6,6.4 1.2297,1.5208 2.3019,3.1626 3.2,4.9 0.5265,0.971 0.994,1.9728 1.4,3 z"
+         class="MsftOfcThm_MainDark1_Fill_v2"
+         id="path333" />
+    </g>
+  </g>
+</svg>
